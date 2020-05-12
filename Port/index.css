@@ -309,7 +309,7 @@ button:focus {
     column-gap:0%;
     }
     #photos img {
-        margin:2% 0px;
+        margin:15% 40px;
     }
     #photos img:hover {
         transform: scale(1);
