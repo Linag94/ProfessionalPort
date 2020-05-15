@@ -312,7 +312,7 @@ button:focus {
     background: rgba(0, 0, 0,0.8); 
 }
 
-@media (max-width: 1000x){
+@media (max-width: 461px){
     #photos {
     columns:1;
     column-gap:0%;
