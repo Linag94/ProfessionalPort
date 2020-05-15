@@ -47,7 +47,7 @@ header table {
     width:100%;
 }
 #logo {
-    width:20%;
+    width:10%;
 }
 #navigation {
     width:80%;
@@ -312,7 +312,7 @@ button:focus {
     background: rgba(0, 0, 0,0.8); 
 }
 
-@media (max-width: 461px){
+@media (max-width: 760px){
     #photos {
     columns:1;
     column-gap:0%;
